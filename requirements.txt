@@ -1,0 +1,5 @@
+streamlit>=1.34
+openai>=1.14          # GPT‑4o Vision support
+pillow                # image handling
+pandas
+altair
