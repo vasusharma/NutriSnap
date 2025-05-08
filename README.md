@@ -7,6 +7,10 @@ a lightweight local database.  A single‑file app for quick local use or
 internal demos.
 
 <p align="center">
+  <img alt="NutriSnap dashboard screenshot" src="docs/screenshot_dashboard1.png" width="700">
+</p>
+
+<p align="center">
   <img alt="NutriSnap dashboard screenshot" src="docs/screenshot_dashboard.png" width="700">
 </p>
 
